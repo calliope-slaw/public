@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://calliopemagic.neocities.org/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://calliope.prof/">
   <title>Calliope&#39;s Magic Garden</title>
   <subtitle>A place for art, literature, magic, and everything in between.</subtitle>
-  <link href="https://calliopemagic.neocities.org/rss-hhol.xml" rel="self"/>
+  <link href="https://calliope.prof/rss-hhol.xml" rel="self"/>
   <updated>2024-10-23T00:00:00Z</updated>
-  <id>https://calliopemagic.neocities.org/</id>
+  <id>https://calliope.prof/</id>
   <author>
     <name>Calliope</name>
   </author>
   <entry>
     <title>Callie Reads... The Kybalion 🤮: 3, Chapter Two</title>
-    <link href="https://calliopemagic.neocities.org/posts/kybalion3-ch2.html"/>
+    <link href="https://calliope.prof/posts/kybalion3-ch2.html"/>
     <updated>2024-10-23T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/kybalion3-ch2.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Let&#39;s keep reading a bad book</content>
+    <id>https://calliope.prof/posts/kybalion3-ch2.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>Let&#39;s keep reading a bad book</content>
   </entry>
   <entry>
     <title>Callie Reads... The Kybalion 🤮: 2, The Hermetic Philosophy We Were Told Last Time Doesn&#39;t Exist</title>
-    <link href="https://calliopemagic.neocities.org/posts/kybalion2-ch1.html"/>
+    <link href="https://calliope.prof/posts/kybalion2-ch1.html"/>
     <updated>2024-10-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/kybalion2-ch1.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Let&#39;s keep reading a bad book</content>
+    <id>https://calliope.prof/posts/kybalion2-ch1.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>Let&#39;s keep reading a bad book</content>
   </entry>
   <entry>
     <title>Callie Reads... The Kybalion 🤮: 1, the introduction</title>
-    <link href="https://calliopemagic.neocities.org/posts/kybalion1-intro.html"/>
+    <link href="https://calliope.prof/posts/kybalion1-intro.html"/>
     <updated>2024-10-14T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/kybalion1-intro.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Let&#39;s read a bad book</content>
+    <id>https://calliope.prof/posts/kybalion1-intro.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>Let&#39;s read a bad book</content>
   </entry>
   <entry>
     <title>The Longing of the Romantic: Subjective Reenchantment in 19th century culture and literature</title>
-    <link href="https://calliopemagic.neocities.org/posts/romanticlonging.html"/>
+    <link href="https://calliope.prof/posts/romanticlonging.html"/>
     <updated>2024-10-07T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/romanticlonging.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>a brief history of Romanticism as it pertains to magic, disenchantment, reenchantment, and subjectivity</content>
+    <id>https://calliope.prof/posts/romanticlonging.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>a brief history of Romanticism as it pertains to magic, disenchantment, reenchantment, and subjectivity</content>
   </entry>
   <entry>
     <title>Every Tarot Card Empress, Wheel, Star</title>
-    <link href="https://calliopemagic.neocities.org/posts/everytarotcard3.html"/>
+    <link href="https://calliope.prof/posts/everytarotcard3.html"/>
     <updated>2024-09-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/everytarotcard3.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>More three cards in the series.</content>
+    <id>https://calliope.prof/posts/everytarotcard3.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>More three cards in the series.</content>
   </entry>
   <entry>
     <title>Every Tarot Card Priestess, Hermit, Tower</title>
-    <link href="https://calliopemagic.neocities.org/posts/everytarotcard2.html"/>
+    <link href="https://calliope.prof/posts/everytarotcard2.html"/>
     <updated>2024-09-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/everytarotcard2.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>The next three cards in the series.</content>
+    <id>https://calliope.prof/posts/everytarotcard2.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>The next three cards in the series.</content>
   </entry>
   <entry>
     <title>Every Tarot Card Magician, Strength, Devil</title>
-    <link href="https://calliopemagic.neocities.org/posts/everytarotcard1.html"/>
+    <link href="https://calliope.prof/posts/everytarotcard1.html"/>
     <updated>2024-09-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/everytarotcard1.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>The first three cards in the series.</content>
+    <id>https://calliope.prof/posts/everytarotcard1.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>The first three cards in the series.</content>
   </entry>
   <entry>
     <title>Asklepios and the 2 of Disks</title>
-    <link href="https://calliopemagic.neocities.org/posts/asklepios-disks.html"/>
+    <link href="https://calliope.prof/posts/asklepios-disks.html"/>
     <updated>2024-09-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/asklepios-disks.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>a post on a decan, a card, and a god</content>
+    <id>https://calliope.prof/posts/asklepios-disks.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>a post on a decan, a card, and a god</content>
   </entry>
   <entry>
     <title>On the Use of &quot;Arcana&quot; to Describe Tarot Cards</title>
-    <link href="https://calliopemagic.neocities.org/posts/tarot-arcana.html"/>
+    <link href="https://calliope.prof/posts/tarot-arcana.html"/>
     <updated>2024-09-12T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/tarot-arcana.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>A brief history of the term and my thoughts regarding its modern use.</content>
+    <id>https://calliope.prof/posts/tarot-arcana.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>A brief history of the term and my thoughts regarding its modern use.</content>
   </entry>
 </feed>

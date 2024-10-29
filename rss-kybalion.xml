@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://calliopemagic.neocities.org/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://calliope.prof/">
   <title>Calliope Reads the Kybalion</title>
   <subtitle>A place for art, literature, magic, and everything in between.</subtitle>
-  <link href="https://calliopemagic.neocities.org/rss-kybalion.xml" rel="self"/>
+  <link href="https://calliope.prof/rss-kybalion.xml" rel="self"/>
   <updated>2024-10-23T00:00:00Z</updated>
-  <id>https://calliopemagic.neocities.org/</id>
+  <id>https://calliope.prof/</id>
   <author>
     <name>Calliope</name>
   </author>
   <entry>
     <title>Callie Reads... The Kybalion 🤮: 3, Chapter Two</title>
-    <link href="https://calliopemagic.neocities.org/posts/kybalion3-ch2.html"/>
+    <link href="https://calliope.prof/posts/kybalion3-ch2.html"/>
     <updated>2024-10-23T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/kybalion3-ch2.html</id>
+    <id>https://calliope.prof/posts/kybalion3-ch2.html</id>
     <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Let&#39;s keep reading a bad book</content>
   </entry>
   <entry>
     <title>Callie Reads... The Kybalion 🤮: 2, The Hermetic Philosophy We Were Told Last Time Doesn&#39;t Exist</title>
-    <link href="https://calliopemagic.neocities.org/posts/kybalion2-ch1.html"/>
+    <link href="https://calliope.prof/posts/kybalion2-ch1.html"/>
     <updated>2024-10-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/kybalion2-ch1.html</id>
+    <id>https://calliope.prof/posts/kybalion2-ch1.html</id>
     <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Let&#39;s keep reading a bad book</content>
   </entry>
   <entry>
     <title>Callie Reads... The Kybalion 🤮: 1, the introduction</title>
-    <link href="https://calliopemagic.neocities.org/posts/kybalion1-intro.html"/>
+    <link href="https://calliope.prof/posts/kybalion1-intro.html"/>
     <updated>2024-10-14T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/kybalion1-intro.html</id>
+    <id>https://calliope.prof/posts/kybalion1-intro.html</id>
     <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Let&#39;s read a bad book</content>
   </entry>
 </feed>

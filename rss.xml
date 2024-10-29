@@ -1,214 +1,221 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://calliopemagic.neocities.org/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://calliope.prof/">
   <title>Calliope&#39;s Magic Garden</title>
   <subtitle>A place for art, literature, magic, and everything in between.</subtitle>
-  <link href="https://calliopemagic.neocities.org/rss.xml" rel="self"/>
+  <link href="https://calliope.prof/rss.xml" rel="self"/>
   <updated>2024-10-29T00:00:00Z</updated>
-  <id>https://calliopemagic.neocities.org/</id>
+  <id>https://calliope.prof/</id>
   <author>
     <name>Calliope</name>
   </author>
   <entry>
-    <title>Gothic Bites 2024 5: Emily Bronte&#39;s The Prisoner</title>
-    <link href="https://calliopemagic.neocities.org/posts/gothicbites20245-bronte.html"/>
+    <title>I&#39;m moving to paid hosting</title>
+    <link href="https://calliope.prof/posts/movinghouse.html"/>
     <updated>2024-10-29T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/gothicbites20245-bronte.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Emily Bronte&#39;s late published poem on life and death and unjust punishment</content>
+    <id>https://calliope.prof/posts/movinghouse.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>ch ch changes</content>
+  </entry>
+  <entry>
+    <title>Gothic Bites 2024 5: Emily Bronte&#39;s The Prisoner</title>
+    <link href="https://calliope.prof/posts/gothicbites20245-bronte.html"/>
+    <updated>2024-10-29T00:00:00Z</updated>
+    <id>https://calliope.prof/posts/gothicbites20245-bronte.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>Emily Bronte&#39;s late published poem on life and death and unjust punishment</content>
   </entry>
   <entry>
     <title>Callie Reads... The Kybalion 🤮: 3, Chapter Two</title>
-    <link href="https://calliopemagic.neocities.org/posts/kybalion3-ch2.html"/>
+    <link href="https://calliope.prof/posts/kybalion3-ch2.html"/>
     <updated>2024-10-23T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/kybalion3-ch2.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Let&#39;s keep reading a bad book</content>
+    <id>https://calliope.prof/posts/kybalion3-ch2.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>Let&#39;s keep reading a bad book</content>
   </entry>
   <entry>
     <title>Gothic Bites 2024 4: Fritz Leiber</title>
-    <link href="https://calliopemagic.neocities.org/posts/gothicbites2024-4-leiber.html"/>
+    <link href="https://calliope.prof/posts/gothicbites2024-4-leiber.html"/>
     <updated>2024-10-18T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/gothicbites2024-4-leiber.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>a special bite-sized treat reading for spooky season</content>
+    <id>https://calliope.prof/posts/gothicbites2024-4-leiber.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>a special bite-sized treat reading for spooky season</content>
   </entry>
   <entry>
     <title>Callie Reads... The Kybalion 🤮: 2, The Hermetic Philosophy We Were Told Last Time Doesn&#39;t Exist</title>
-    <link href="https://calliopemagic.neocities.org/posts/kybalion2-ch1.html"/>
+    <link href="https://calliope.prof/posts/kybalion2-ch1.html"/>
     <updated>2024-10-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/kybalion2-ch1.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Let&#39;s keep reading a bad book</content>
+    <id>https://calliope.prof/posts/kybalion2-ch1.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>Let&#39;s keep reading a bad book</content>
   </entry>
   <entry>
     <title>Callie Reads... The Kybalion 🤮: 1, the introduction</title>
-    <link href="https://calliopemagic.neocities.org/posts/kybalion1-intro.html"/>
+    <link href="https://calliope.prof/posts/kybalion1-intro.html"/>
     <updated>2024-10-14T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/kybalion1-intro.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Let&#39;s read a bad book</content>
+    <id>https://calliope.prof/posts/kybalion1-intro.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>Let&#39;s read a bad book</content>
   </entry>
   <entry>
     <title>A life, with interjections from Yusuke Nakamura</title>
-    <link href="https://calliopemagic.neocities.org/posts/nightisshort1.html"/>
+    <link href="https://calliope.prof/posts/nightisshort1.html"/>
     <updated>2024-10-11T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/nightisshort1.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>I keep seeing his art at odd times</content>
+    <id>https://calliope.prof/posts/nightisshort1.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>I keep seeing his art at odd times</content>
   </entry>
   <entry>
     <title>Gothic Bites 2024 3: Robert Browning</title>
-    <link href="https://calliopemagic.neocities.org/posts/gothicbites2024-3-browning.html"/>
+    <link href="https://calliope.prof/posts/gothicbites2024-3-browning.html"/>
     <updated>2024-10-10T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/gothicbites2024-3-browning.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>a special bite-sized treat reading for spooky season</content>
+    <id>https://calliope.prof/posts/gothicbites2024-3-browning.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>a special bite-sized treat reading for spooky season</content>
   </entry>
   <entry>
     <title>Gothic Bites 2024 2: George Colman the Younger</title>
-    <link href="https://calliopemagic.neocities.org/posts/gothicbites2024-2-colman.html"/>
+    <link href="https://calliope.prof/posts/gothicbites2024-2-colman.html"/>
     <updated>2024-10-08T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/gothicbites2024-2-colman.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>a special bite-sized treat reading for spooky season</content>
+    <id>https://calliope.prof/posts/gothicbites2024-2-colman.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>a special bite-sized treat reading for spooky season</content>
   </entry>
   <entry>
     <title>The Longing of the Romantic: Subjective Reenchantment in 19th century culture and literature</title>
-    <link href="https://calliopemagic.neocities.org/posts/romanticlonging.html"/>
+    <link href="https://calliope.prof/posts/romanticlonging.html"/>
     <updated>2024-10-07T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/romanticlonging.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>a brief history of Romanticism as it pertains to magic, disenchantment, reenchantment, and subjectivity</content>
+    <id>https://calliope.prof/posts/romanticlonging.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>a brief history of Romanticism as it pertains to magic, disenchantment, reenchantment, and subjectivity</content>
   </entry>
   <entry>
     <title>Gothic Bites 2024 1: Robert Merry</title>
-    <link href="https://calliopemagic.neocities.org/posts/gothicbites2024-1-merry.html"/>
+    <link href="https://calliope.prof/posts/gothicbites2024-1-merry.html"/>
     <updated>2024-10-01T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/gothicbites2024-1-merry.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>a special bite-sized treat reading for spooky season</content>
+    <id>https://calliope.prof/posts/gothicbites2024-1-merry.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>a special bite-sized treat reading for spooky season</content>
   </entry>
   <entry>
     <title>A Wild Idea - Let&#39;s Start a Rotator</title>
-    <link href="https://calliopemagic.neocities.org/posts/rotators.html"/>
+    <link href="https://calliope.prof/posts/rotators.html"/>
     <updated>2024-09-30T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/rotators.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>a possible group writing project modeled on old fanzine lines</content>
+    <id>https://calliope.prof/posts/rotators.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>a possible group writing project modeled on old fanzine lines</content>
   </entry>
   <entry>
     <title>Eggbug Memorial Rotator 1 call for submissions</title>
-    <link href="https://calliopemagic.neocities.org/posts/rotator1-callforwriting.html"/>
+    <link href="https://calliope.prof/posts/rotator1-callforwriting.html"/>
     <updated>2024-09-30T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/rotator1-callforwriting.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>come write about the sites you love</content>
+    <id>https://calliope.prof/posts/rotator1-callforwriting.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>come write about the sites you love</content>
   </entry>
   <entry>
     <title>Callie Reads Sauron Defeated</title>
-    <link href="https://calliopemagic.neocities.org/posts/sauron-defeated.html"/>
+    <link href="https://calliope.prof/posts/sauron-defeated.html"/>
     <updated>2024-09-28T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/sauron-defeated.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Various observation as I read *Sauron Defeated*</content>
+    <id>https://calliope.prof/posts/sauron-defeated.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>Various observation as I read *Sauron Defeated*</content>
   </entry>
   <entry>
     <title>Comments are enabled on posts!</title>
-    <link href="https://calliopemagic.neocities.org/posts/comments-enabled.html"/>
+    <link href="https://calliope.prof/posts/comments-enabled.html"/>
     <updated>2024-09-26T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/comments-enabled.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Just a quick announcement about posts for you rss folks</content>
+    <id>https://calliope.prof/posts/comments-enabled.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>Just a quick announcement about posts for you rss folks</content>
   </entry>
   <entry>
     <title>Gothic Library - Horace Walpole - Castle of Otranto - 1764</title>
-    <link href="https://calliopemagic.neocities.org/posts/gothiclibrary1-otranto.html"/>
+    <link href="https://calliope.prof/posts/gothiclibrary1-otranto.html"/>
     <updated>2024-09-21T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/gothiclibrary1-otranto.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>one of the many books in my Gothic Library</content>
+    <id>https://calliope.prof/posts/gothiclibrary1-otranto.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>one of the many books in my Gothic Library</content>
   </entry>
   <entry>
     <title>nearly 2000 words on a dumb idea I lay out in the first two paragraphs</title>
-    <link href="https://calliopemagic.neocities.org/posts/socialmedia-dumbidea.html"/>
+    <link href="https://calliope.prof/posts/socialmedia-dumbidea.html"/>
     <updated>2024-09-17T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/socialmedia-dumbidea.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>a long, personal essay on how I think we can use social media sites to replicate our best communities when they work against that goal</content>
+    <id>https://calliope.prof/posts/socialmedia-dumbidea.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>a long, personal essay on how I think we can use social media sites to replicate our best communities when they work against that goal</content>
   </entry>
   <entry>
     <title>My Shed of Marvelous Discoveries 17 Sept. 24</title>
-    <link href="https://calliopemagic.neocities.org/posts/discoveries17sept24.html"/>
+    <link href="https://calliope.prof/posts/discoveries17sept24.html"/>
     <updated>2024-09-17T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/discoveries17sept24.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>Lovely, powerful, and interesting things I&#39;ve seen around the web.</content>
+    <id>https://calliope.prof/posts/discoveries17sept24.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>Lovely, powerful, and interesting things I&#39;ve seen around the web.</content>
   </entry>
   <entry>
     <title>Every Tarot Card Empress, Wheel, Star</title>
-    <link href="https://calliopemagic.neocities.org/posts/everytarotcard3.html"/>
+    <link href="https://calliope.prof/posts/everytarotcard3.html"/>
     <updated>2024-09-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/everytarotcard3.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>More three cards in the series.</content>
+    <id>https://calliope.prof/posts/everytarotcard3.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>More three cards in the series.</content>
   </entry>
   <entry>
     <title>Every Tarot Card Priestess, Hermit, Tower</title>
-    <link href="https://calliopemagic.neocities.org/posts/everytarotcard2.html"/>
+    <link href="https://calliope.prof/posts/everytarotcard2.html"/>
     <updated>2024-09-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/everytarotcard2.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>The next three cards in the series.</content>
+    <id>https://calliope.prof/posts/everytarotcard2.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>The next three cards in the series.</content>
   </entry>
   <entry>
     <title>Every Tarot Card Magician, Strength, Devil</title>
-    <link href="https://calliopemagic.neocities.org/posts/everytarotcard1.html"/>
+    <link href="https://calliope.prof/posts/everytarotcard1.html"/>
     <updated>2024-09-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/everytarotcard1.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>The first three cards in the series.</content>
+    <id>https://calliope.prof/posts/everytarotcard1.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>The first three cards in the series.</content>
   </entry>
   <entry>
     <title>Asklepios and the 2 of Disks</title>
-    <link href="https://calliopemagic.neocities.org/posts/asklepios-disks.html"/>
+    <link href="https://calliope.prof/posts/asklepios-disks.html"/>
     <updated>2024-09-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/asklepios-disks.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>a post on a decan, a card, and a god</content>
+    <id>https://calliope.prof/posts/asklepios-disks.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>a post on a decan, a card, and a god</content>
   </entry>
   <entry>
     <title>Ideas on How to Make a Noir TTRPG</title>
-    <link href="https://calliopemagic.neocities.org/posts/noir-rpgs.html"/>
+    <link href="https://calliope.prof/posts/noir-rpgs.html"/>
     <updated>2024-09-14T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/noir-rpgs.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>an essay in response to DeusExBrockina with my thoughts on how to transfer the telltale traits of hardboiled detective fiction to TTRPGs.</content>
+    <id>https://calliope.prof/posts/noir-rpgs.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>an essay in response to DeusExBrockina with my thoughts on how to transfer the telltale traits of hardboiled detective fiction to TTRPGs.</content>
   </entry>
   <entry>
     <title>On Sherlock Holmes and &quot;Mysteries&quot;</title>
-    <link href="https://calliopemagic.neocities.org/posts/sherlock-mysteries.html"/>
+    <link href="https://calliope.prof/posts/sherlock-mysteries.html"/>
     <updated>2024-09-13T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/sherlock-mysteries.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>an essay on what it means for a story to be a mystery and the oddity of Sherlock Holmes</content>
+    <id>https://calliope.prof/posts/sherlock-mysteries.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>an essay on what it means for a story to be a mystery and the oddity of Sherlock Holmes</content>
   </entry>
   <entry>
     <title>On the Use of &quot;Arcana&quot; to Describe Tarot Cards</title>
-    <link href="https://calliopemagic.neocities.org/posts/tarot-arcana.html"/>
+    <link href="https://calliope.prof/posts/tarot-arcana.html"/>
     <updated>2024-09-12T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/tarot-arcana.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>A brief history of the term and my thoughts regarding its modern use.</content>
+    <id>https://calliope.prof/posts/tarot-arcana.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>A brief history of the term and my thoughts regarding its modern use.</content>
   </entry>
   <entry>
     <title>Newtypes, Fans, and Slans</title>
-    <link href="https://calliopemagic.neocities.org/posts/newtypes-slans.html"/>
+    <link href="https://calliope.prof/posts/newtypes-slans.html"/>
     <updated>2024-09-12T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/newtypes-slans.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>an essay on the influence of Van Vogt&#39;s *Slans* on *Gundam*</content>
+    <id>https://calliope.prof/posts/newtypes-slans.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>an essay on the influence of Van Vogt&#39;s *Slans* on *Gundam*</content>
   </entry>
   <entry>
     <title>Three Views of Victor Frankenstein&#39;s Guilt</title>
-    <link href="https://calliopemagic.neocities.org/posts/frankensteinsguilt.html"/>
+    <link href="https://calliope.prof/posts/frankensteinsguilt.html"/>
     <updated>2024-09-12T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/frankensteinsguilt.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>an essay on three ways to view the guilt of Victor Frankenstein</content>
+    <id>https://calliope.prof/posts/frankensteinsguilt.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>an essay on three ways to view the guilt of Victor Frankenstein</content>
   </entry>
   <entry>
     <title>An Elegy for an Eggbug</title>
-    <link href="https://calliopemagic.neocities.org/posts/elegy-eggbug.html"/>
+    <link href="https://calliope.prof/posts/elegy-eggbug.html"/>
     <updated>2024-09-12T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/elegy-eggbug.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>My thoughts on the closure of cohost.org</content>
+    <id>https://calliope.prof/posts/elegy-eggbug.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>My thoughts on the closure of cohost.org</content>
   </entry>
   <entry>
     <title>A funny story about my username</title>
-    <link href="https://calliopemagic.neocities.org/posts/funnystory.html"/>
+    <link href="https://calliope.prof/posts/funnystory.html"/>
     <updated>2024-09-11T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/funnystory.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>How I ended up as &quot;calliope&quot;</content>
+    <id>https://calliope.prof/posts/funnystory.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>How I ended up as &quot;calliope&quot;</content>
   </entry>
   <entry>
     <title>Hello, World!</title>
-    <link href="https://calliopemagic.neocities.org/posts/2023-11-15-Hello-World.html"/>
+    <link href="https://calliope.prof/posts/2023-11-15-Hello-World.html"/>
     <updated>2023-11-15T00:00:00Z</updated>
-    <id>https://calliopemagic.neocities.org/posts/2023-11-15-Hello-World.html</id>
-    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>This is the first post on my brand new cool blog!</content>
+    <id>https://calliope.prof/posts/2023-11-15-Hello-World.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>This is the first post on my brand new cool blog!</content>
   </entry>
 </feed>
