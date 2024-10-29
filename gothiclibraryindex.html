@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Calliope's Magic Garden: Calliope&#39;s Gothic Library</title>
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+    <link href="https://calliopemagic.neocities.org/rss.xml" rel="alternate" type="application/rss+xml" title="RSS feed for Calliope's Magic Garden">
+    <link href="styles/style.css" rel="stylesheet" type="text/css" media="all">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A place for literature, art, magic, and everything in between.">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Calliope&#39;s Gothic Library">
+    <meta property="og:url" content="https://calliopemagic.neocities.org/./gothiclibraryindex.html">
+    <meta property="og:image" content="https://calliopemagic.neocities.org/images/favicon.png">
+    <meta property="og:description" content="A landing page for my ongoing series rereading gothic novels">
+  </head>
+  
+  <body>
+    <main id="container">
+
+      <div id="headerArea">
+        <!--If you wanted to put in a header image, this is where you would do it-->
+        <nav id="navbar">
+        <!--This is where you edit the navbar links at the top of the page-->
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="archives.html">Archives</a></li>
+            <li><a href="links.html">Links</a></li>
+			<li><a href="https://calliope.atabook.org/">Guest Book</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <!--This is where the bulk of your page lives-->
+      <div id="flex">
+        <article>
+          
+          <h1>Calliope&#39;s Gothic Library</h1>
+          
+          <ul>
+<li><a href="../posts/gothiclibrary1-otranto.html">Horace Walpole's <em>Castle of Otranto</em></a>
+<ul>
+<li>The first gothic novel, a short, wild ride with giant helmets, surprise family members, one of gothic fiction's only nice priests, and Manfred, the gothic villain prototype.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<!-- This next part will show your top three most recent posts. You can change how readableDate looks in your .eleventy.js file-->
+<h2>Recent Posts</h2>
+<!--This next part shows all of your posts tagged "gothic-library" in reverse chronological order-->
+<ul class="none">
+</ul>
+<hr>
+
+
+        </article>
+      </div>
+
+      <!--Edit in your footer here, or delete it entirely if you want-->
+      <footer id="footer">
+	  <center><img src="./images/cohostbutton2.gif" title="I was on cohost!"></center>
+	  <small>Color palette by <a href="https://lospec.com/palette-list/retro-8">Bixbyte</a></small>
+	  
+	  </footer>
+
+    </main>
+    
+    <!--this will add a 'Go to top' button on your site-->
+    <button onclick="topFunction()" id="topBtn" title="Go to top">Top</button>
+    
+    <script>
+      let topbutton = document.getElementById("topBtn");
+      window.onscroll = function() {scrollFunction()};
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          topbutton.style.display = "block";
+        } else {
+          topbutton.style.display = "none";
+        }
+      }
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+    </script>
+    <!--end top button code-->
+
+  </body>
+</html>

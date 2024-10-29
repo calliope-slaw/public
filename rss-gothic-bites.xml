@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://calliopemagic.neocities.org/">
+  <title>Calliope&#39;s Magic Garden</title>
+  <subtitle>A place for art, literature, magic, and everything in between.</subtitle>
+  <link href="https://calliopemagic.neocities.org/rss-gothic-bites.xml" rel="self"/>
+  <updated>NaN</updated>
+  <id>https://calliopemagic.neocities.org/</id>
+  <author>
+    <name>Calliope</name>
+  </author>
+</feed>

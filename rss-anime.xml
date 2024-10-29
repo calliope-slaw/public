@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://calliopemagic.neocities.org/">
+  <title>Calliope&#39;s Magic Garden</title>
+  <subtitle>A place for art, literature, magic, and everything in between.</subtitle>
+  <link href="https://calliopemagic.neocities.org/rss-anime.xml" rel="self"/>
+  <updated>2024-10-11T00:00:00Z</updated>
+  <id>https://calliopemagic.neocities.org/</id>
+  <author>
+    <name>Calliope</name>
+  </author>
+  <entry>
+    <title>A life, with interjections from Yusuke Nakamura</title>
+    <link href="https://calliopemagic.neocities.org/posts/nightisshort1.html"/>
+    <updated>2024-10-11T00:00:00Z</updated>
+    <id>https://calliopemagic.neocities.org/posts/nightisshort1.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>I keep seeing his art at odd times</content>
+  </entry>
+  <entry>
+    <title>Newtypes, Fans, and Slans</title>
+    <link href="https://calliopemagic.neocities.org/posts/newtypes-slans.html"/>
+    <updated>2024-09-12T00:00:00Z</updated>
+    <id>https://calliopemagic.neocities.org/posts/newtypes-slans.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="https://calliopemagic.neocities.org/images/cat.jpg">]]>an essay on the influence of Van Vogt&#39;s *Slans* on *Gundam*</content>
+  </entry>
+</feed>
