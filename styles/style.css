@@ -33,9 +33,10 @@ a:hover {
 }
 
 #container {
-  max-width: 700px;
+ max-width: 1024px;
   margin: 3em auto;
-  width: 90%;
+  width: 70%;
+
 }
 
 #navbar {
@@ -88,6 +89,7 @@ article {
   outline-width: 0px;
   outline-style: solid;
   outline-color: #6e51c8;
+  border-radius: 02% 02%;
 }
 
 footer {
