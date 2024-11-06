@@ -44,7 +44,7 @@ a:hover {
   padding: 0 5%;
   font-weight: bold;
   margin-bottom: 10px;
-  outline-width: 0px;
+  outline-width: 4px;
   outline-style: solid;
   outline-color: #6e51c8;
 }
@@ -85,18 +85,18 @@ article {
   outline-style: none;
   margin-bottom: 10px;
   width: 100%;
-  outline-width: 0px;
+  outline-width: 4px;
   outline-style: solid;
   outline-color: #6e51c8;
 }
 
 footer {
-  background-color: transparent;
+  background-color: #041026;
   width: 100%;
   padding: 10px;
   text-align: center;
   outline-style: none;
-  outline-width: 0px;
+  outline-width: 4px;
   outline-style: solid;
   outline-color: #6e51c8;
 }
