@@ -3,11 +3,18 @@
   <title>Calliope&#39;s Magic Garden</title>
   <subtitle>A place for art, literature, magic, and everything in between.</subtitle>
   <link href="https://calliope.prof/rss.xml" rel="self"/>
-  <updated>2024-11-14T00:00:00Z</updated>
+  <updated>2024-11-20T00:00:00Z</updated>
   <id>https://calliope.prof/</id>
   <author>
     <name>Calliope</name>
   </author>
+  <entry>
+    <title>Animist Existentialism</title>
+    <link href="https://calliope.prof/posts/animistexistentialism.html"/>
+    <updated>2024-11-20T00:00:00Z</updated>
+    <id>https://calliope.prof/posts/animistexistentialism.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>I’ve been thinking more than usual about the philosophical side of my “paganism” (for lack of a better term).</content>
+  </entry>
   <entry>
     <title>An Animist Buys a Record Player</title>
     <link href="https://calliope.prof/posts/recordplayer.html"/>
