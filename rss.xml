@@ -3,11 +3,18 @@
   <title>Calliope&#39;s Magic Garden</title>
   <subtitle>A place for art, literature, magic, and everything in between.</subtitle>
   <link href="https://calliope.prof/rss.xml" rel="self"/>
-  <updated>2024-11-20T00:00:00Z</updated>
+  <updated>2024-11-29T00:00:00Z</updated>
   <id>https://calliope.prof/</id>
   <author>
     <name>Calliope</name>
   </author>
+  <entry>
+    <title>Gothic Library - Clara Reeve - The Old English Baron - 1764</title>
+    <link href="https://calliope.prof/posts/gothiclibrary2-baron.html"/>
+    <updated>2024-11-29T00:00:00Z</updated>
+    <id>https://calliope.prof/posts/gothiclibrary2-baron.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>one of the many books in my Gothic Library</content>
+  </entry>
   <entry>
     <title>Animist Existentialism</title>
     <link href="https://calliope.prof/posts/animistexistentialism.html"/>
