@@ -242,3 +242,7 @@ details summary {
 details summary > * {
 	display: inline;
 }
+
+# gradient-gag {
+	background: linear-gradient(to right, hsl(210, 100%, 95%), hsl(345, 100%, 95%));
+}
