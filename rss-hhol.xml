@@ -3,11 +3,18 @@
   <title>Calliope&#39;s Magic Garden</title>
   <subtitle>A place for art, literature, magic, and everything in between.</subtitle>
   <link href="https://calliope.prof/rss-hhol.xml" rel="self"/>
-  <updated>2024-11-20T00:00:00Z</updated>
+  <updated>2024-12-04T00:00:00Z</updated>
   <id>https://calliope.prof/</id>
   <author>
     <name>Calliope</name>
   </author>
+  <entry>
+    <title>John Ruskin: The Zodiac Song (1865/1903)</title>
+    <link href="https://calliope.prof/posts/ruskin-zodiac.html"/>
+    <updated>2024-12-04T00:00:00Z</updated>
+    <id>https://calliope.prof/posts/ruskin-zodiac.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>John Ruskin wrote a poem about the zodiac once</content>
+  </entry>
   <entry>
     <title>Animist Existentialism</title>
     <link href="https://calliope.prof/posts/animistexistentialism.html"/>
