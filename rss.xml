@@ -3,11 +3,18 @@
   <title>Calliope&#39;s Magic Garden</title>
   <subtitle>A place for art, literature, magic, and everything in between.</subtitle>
   <link href="https://calliope.prof/rss.xml" rel="self"/>
-  <updated>2025-01-13T00:00:00Z</updated>
+  <updated>2025-02-05T00:00:00Z</updated>
   <id>https://calliope.prof/</id>
   <author>
     <name>Calliope</name>
   </author>
+  <entry>
+    <title>I renamed all the Dark Souls 3 bosses</title>
+    <link href="https://calliope.prof/posts/darksouls3funnynames.html"/>
+    <updated>2025-02-05T00:00:00Z</updated>
+    <id>https://calliope.prof/posts/darksouls3funnynames.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="./images/cat.jpg">]]>I get mad and need silly things to yell at them all right?</content>
+  </entry>
   <entry>
     <title>2024 in Review</title>
     <link href="https://calliope.prof/posts/2024-in-review.html"/>
