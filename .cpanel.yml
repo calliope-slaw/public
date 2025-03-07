@@ -6,16 +6,16 @@ deployment:
     - export DEPLOYPATH=/home/calliop1/public_html/
     - /bin/cp -R images $DEPLOYPATH
     - bin/cp -R posts $DEPLOYPATH
-    - bin/cp -R archives.html $DEPLOYPATH
-    - bin/cp -R index.html $DEPLOYPATH
-    - bin/cp -R contact.html $DEPLOYPATH
-    - bin/cp -R gothiclibraryindex.html $DEPLOYPATH
-    - bin/cp -R kybalionindex.html $DEPLOYPATH
+    - bin/cp  archives.html $DEPLOYPATH
+    - bin/cp  index.html $DEPLOYPATH
+    - bin/cp  contact.html $DEPLOYPATH
+    - bin/cp  gothiclibraryindex.html $DEPLOYPATH
+    - bin/cp  kybalionindex.html $DEPLOYPATH
     - bin/cp -R styles $DEPLOYPATH $DEPLOYPATH
-    - bin/cp -R links.html $DEPLOYPATH
-    - bin/cp -R rss-gothicbites.xml $DEPLOYPATH
-    - bin/cp -R rss.xml $DEPLOYPATH
-    - bin/cp -R rss-hhol.xml $DEPLOYPATH
-    - bin/cp -R rss-kybalion.xml $DEPLOYPATH
-    - bin/cp -R sitemap.html $DEPLOYPATH
+    - bin/cp  links.html $DEPLOYPATH
+    - bin/cp  rss-gothicbites.xml $DEPLOYPATH
+    - bin/cp  rss.xml $DEPLOYPATH
+    - bin/cp  rss-hhol.xml $DEPLOYPATH
+    - bin/cp  rss-kybalion.xml $DEPLOYPATH
+    - bin/cp  sitemap.html $DEPLOYPATH
     
