@@ -5,3 +5,16 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/calliop1/public_html/
     - /bin/cp -R images $DEPLOYPATH
+    - bin/cp -R posts $DEPLOYPATH
+    - bin/cp -R archives.html $DEPLOYPATH
+    - bin/cp -R index.html $DEPLOYPATH
+    - bin/cp -R contact.html $DEPLOYPATH
+    - bin/cp -R gothiclibraryindex.html $DEPLOYPATH
+    - bin/cp -R kybalionindex.html $DEPLOYPATH
+    - bin/cp -R styles $DEPLOYPATH $DEPLOYPATH
+    - bin/cp -R links.html $DEPLOYPATH
+    - bin/cp -R rss-gothicbites.xml $DEPLOYPATH
+    - bin/cp -R rss.xml $DEPLOYPATH
+    - bin/cp -R rss-hhol.xml $DEPLOYPATH
+    - bin/cp -R rss-kybalion.xml $DEPLOYPATH
+    - bin/cp -R sitemap.html $DEPLOYPATH
