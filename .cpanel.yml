@@ -18,3 +18,4 @@ deployment:
     - bin/cp -R rss-hhol.xml $DEPLOYPATH
     - bin/cp -R rss-kybalion.xml $DEPLOYPATH
     - bin/cp -R sitemap.html $DEPLOYPATH
+    
