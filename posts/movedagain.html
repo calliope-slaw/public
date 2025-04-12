@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Calliope's Magic Garden: RSS feed change</title>
+    <link rel="icon" href="../images/favicon.png" type="image/x-icon">
+    <link href="https://calliope.prof/rss.xml" rel="alternate" type="application/rss+xml" title="RSS feed for Calliope's Magic Garden">
+    <link href="../styles/style.css" rel="stylesheet" type="text/css" media="all">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A place for literature, art, magic, and all good things in between.">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="RSS feed change">
+    <meta property="og:url" content="https://calliope.prof/posts/movedagain.html">
+    <meta property="og:image" content="../images/cat.jpg">
+    <meta property="og:description" content="look the overhead is awful">
+  </head>
+  
+  <body>
+    <main id="container">
+
+      <div id="headerArea">
+        <!--If you wanted to put in a header image, this is where you would do it-->
+        <nav id="navbar">
+        <!--This is where you edit the navbar links at the top of the page-->
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="https://calliope.bearblog.dev/blog/">Blog</a></li>
+            <li><a href="../links.html">Links</a></li>
+			<li><a href="https://calliope.atabook.org/">Guest Book</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <!--This is where the bulk of your page lives-->
+      <div id="flex">
+        <article>
+          <h1>RSS feed change</h1>
+          
+          <!--You can change how topDate looks in your .eleventy.js file-->
+          <strong>2025 March 03</strong>
+          
+          <p>I am, once again, changing where I'm blogging. I know, this is getting annoying. But the overhead for blogging the way I was doing, in a fully static site environment, was making me not want to do it.</p>
+<p>Anyway, more in a minute, but here's the new rss link:</p>
+<p><a href="https://calliope.bearblog.dev/feed/">https://calliope.bearblog.dev/feed/</a></p>
+<p>And the blog itself, if you'd like to browse around:</p>
+<p><a href="https://calliope.bearblog.dev/blog/">https://calliope.bearblog.dev/blog/</a></p>
+<p>So, what's going on you might ask? Ok, from beginning to end, here is what my workflow looked like for blogging since Cohost shut down:</p>
+<ul>
+<li>open a markdown file with the blog's template matter in it</li>
+<li>write the post</li>
+<li>add in all the metadata stuff in the template area</li>
+<li>save and quit</li>
+<li>open terminal</li>
+<li>navigate to the site's folder on my desktop or laptop</li>
+<li>run a node.js command</li>
+<li>wait for it to reformat the files it needs to format and push the new ones into html from markdown</li>
+<li>close terminal</li>
+<li>open github desktop</li>
+<li>commit the changes to /public</li>
+<li>push the changes to github</li>
+<li>close github desktop</li>
+<li>navigate to my hosting provider in Firefox</li>
+<li>click into the actual hosting side</li>
+<li>click into the git version control</li>
+<li>click into the pull menu (I have tried for months and cannot skip this set of steps with a push, as every tutorial says I should be able to)</li>
+<li>click the button that finds there's an update</li>
+<li>click the button that puts the update on the hosting service</li>
+</ul>
+<p>Now, that's <em>enough</em>. But, and I cannot stress this enough, I have <strong>never</strong> published a post and not found an error, typo, or other problem in it afterwards. So I have to go through this entire process at least <em>twice</em> for ever post.</p>
+<p>I am tired. I am past the part where I can let myself feel proud that I understand some computing stuff I've always wanted to be able to do. I just want something that works and doesn't make editing a total nightmare.</p>
+<p>All my posts are still drafted in markdown files, so they're on my pc in case I have to migrate again for whatever reason. But for now, point your browser, and your eyes, at <a href="https://calliope.bearblog.dev/blog/">my third party blog</a> and your rss reader  <a href="https://calliope.bearblog.dev/feed/">here</a>.</p>
+<p>I hope, this summer, to turn this site into a proper landing page, with links to all my stuff. Did you know I have <a href="https://gconleymagicart.itch.io/">a itch page</a>? Probably not, since nothing on this site links to it! I need a place to allow people to commission tarot readings. And if I'm fighting just to write, I won't do any of that. I haven't done any of that, <em>because</em> I've been fighting just to write.</p>
+<p>Thanks for your patience.</p>
+
+          
+          <!--This will take you to the next/previous blog entries if they exist-->
+          <nav id="nextprev">
+          
+          <a href="../blog.html">Archives</a>
+          
+          | <a class="previous" href="/posts/movies2025-1">Previous »</a>
+          
+          </nav>
+        </article>
+      </div>
+	  
+<!--
+
+  The widget follows "system" settings for light/dark mode
+
+  by default, but you can manually select "light" or "dark"
+
+  mode for a consistent display
+
+-->
+
+<div
+
+  data-chirpy-theme="system"
+
+  data-chirpy-comment="true"
+
+  id="chirpy-comment"
+
+></div>
+
+      <!--Edit in your footer here, or delete it entirely if you want-->
+            <footer id="footer">
+	  <center><img src="../images/cohostbutton2.gif" title="I was on cohost!"></center>
+	  <small>Color palette by <a href="https://lospec.com/palette-list/retro-8">Bixbyte</a></small>
+	  
+	  </footer>
+
+    </main>
+    
+	<!-- the script for chirpy's comment system-->
+	<script defer src="https://chirpy.dev/bootstrapper.js" data-chirpy-domain="calliope.prof"></script>	
+	
+	<!--this will add a 'Go to top' button on your site-->
+    <button onclick="topFunction()" id="topBtn" title="Go to top">Top</button>
+	
+    
+    <script>
+      let topbutton = document.getElementById("topBtn");
+      window.onscroll = function() {scrollFunction()};
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          topbutton.style.display = "block";
+        } else {
+          topbutton.style.display = "none";
+        }
+      }
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+    </script>
+    <!--end top button code-->
+
+  </body>
+</html>

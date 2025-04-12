@@ -83,6 +83,8 @@
           <!--This will take you to the next/previous blog entries if they exist-->
           <nav id="nextprev">
           
+          <a class="next" href="/posts/movedagain.html">« Next</a> |
+          
           <a href="../blog.html">Archives</a>
           
           | <a class="previous" href="/posts/tradition-magician-eliot.html">Previous »</a>
